@@ -5,14 +5,4 @@ markdown
 langchain-openai
 langchain-community
 langchain-core
-bs4
 faiss-cpu
-pypdf
-arxiv
-pymupdf
-wikipedia
-lxml
-langchain_huggingface
-langchain-groq
-langgraph
-langgraph-cli[inmem]
